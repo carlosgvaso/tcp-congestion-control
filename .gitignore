@@ -1,3 +1,9 @@
+# Data files
+iperf*.txt
+tcpprobe*.txt
+cwnd*.png
+fairness*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
