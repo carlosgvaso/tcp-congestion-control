@@ -10,12 +10,10 @@ Mininet code to compare 4 different TCP congestion control algorithms.
 TCP Congestion Algorithms
 -------------------------
 
-> WIP
-
 * Reno
+* BIC
 * CUBIC
-* TBD
-* TBD
+* H-TCP
 
 
 Usage
