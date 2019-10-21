@@ -21,7 +21,7 @@ python-debian===0.1.21-nmu2ubuntu2
 pytz==2018.9
 pyxdg==0.25
 requests==2.2.1
-scapy==2.2.0
+scapy==2.4.1
 six==1.12.0
 ssh-import-id==3.21
 subprocess32==3.5.3
