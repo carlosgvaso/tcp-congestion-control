@@ -25,5 +25,5 @@ scapy==2.2.0
 six==1.12.0
 ssh-import-id==3.21
 subprocess32==3.5.3
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==16.4.3
