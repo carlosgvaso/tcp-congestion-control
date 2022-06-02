@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.5
 chardet==2.0.1
 colorama==0.2.5
 cycler==0.10.0
-html5lib==0.999
+html5lib==0.99999999
 kiwisolver==1.0.1
 logilab-common==0.61.0
 matplotlib==2.2.4
