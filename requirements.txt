@@ -9,7 +9,7 @@ kiwisolver==1.0.1
 logilab-common==0.61.0
 matplotlib==2.2.4
 mininet==2.2.2
-numpy==1.16.2
+numpy==1.22.0
 pep8==1.4.6
 pexpect==3.1
 pyflakes==0.8.1
